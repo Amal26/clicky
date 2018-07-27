@@ -1,0 +1,43 @@
+[
+{
+    "id": 1,
+    "name": "Sailor Satum",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/1/18/Sailor_Moon_-_Hotaru_Tomoe.png/revision/latest?cb=20180125015556"
+},
+{
+    "id": 2,
+    "name": "Sailor Jupiter",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/2/24/Sailor_Jupiter.png/revision/latest?cb=20171025205808"
+},
+{
+    "id": 3,
+    "name": "Sailor Moon",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/b/bb/Sailor_moon_crystal_render_by_luna_ris-d7gg8or.png/revision/latest?cb=20151129191337"
+},
+{
+    "id": 4,
+    "name": "Sailor Mars",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/6/6c/SailorMars%281995series%29Profile.png/revision/latest?cb=20171025211948"
+},
+{
+    "id": 5,
+    "name": "Sailor Mercury",
+    "image":"https://vignette.wikia.nocookie.net/characters/images/6/60/Sailor_Mercury.png/revision/latest?cb=20171025205505"
+},
+{
+    "id": 6,
+    "name": "Sailor Uranus",
+    "image": "https://vignette.wikia.nocookie.net/characters/images/4/41/Sailor_Uranus.png/revision/latest?cb=20170921041422"
+},
+{
+    "id": 7,
+    "name": "Sailor Venus",
+    "image": "https://vignette.wikia.nocookie.net/characters/images/1/15/Sailor_Venus.png/revision/latest?cb=20180124043300"
+},
+{
+    "id": 8,
+    "name": "Sailor Pluto",
+    "image": "https://vignette.wikia.nocookie.net/characters/images/e/e3/Sailor_Pluto.png/revision/latest?cb=20180124233543"
+}
+
+]
