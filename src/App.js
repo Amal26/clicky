@@ -4,6 +4,7 @@ import Card from './components/Card/Card.js';
 import cards from './cards.json';
 import './index.css';
 
+
 class App extends Component {
 
   state = {
